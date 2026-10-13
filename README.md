@@ -9,14 +9,16 @@
 
 | 机场 | 入门月付套餐 | 最低单 GB 成本 | 支持的 AI / 流媒体 | 评分 | 详细信息 |
 | --- | --- | --- | --- | --- | --- |
-| [九云](https://tiziyun.co/providers/jiuyun/) | 招财版：¥6 / 月付 / 150G / 月 | ¥0.027（旺财版） | 未公开 | 测试中 | [档案](https://tiziyun.co/providers/jiuyun/) · [解读](https://tiziyun.co/reviews/jiuyun-airport/) |
+| [九云](https://tiziyun.co/providers/jiuyun/) | 招财版：¥6 / 月付 / 150G / 月 | ¥0.018（特惠年付） | ChatGPT*、Netflix* | 测试中 | [档案](https://tiziyun.co/providers/jiuyun/) · [解读](https://tiziyun.co/reviews/jiuyun-airport/) |
 | [宝云](https://tiziyun.co/providers/baoyun/) | 福宝：¥4 / 月付 / 200G / 月 | ¥0.013（金宝） | 未公开 | 测试中 | [档案](https://tiziyun.co/providers/baoyun/) · [解读](https://tiziyun.co/reviews/baoyun-airport/) |
-| [锦云](https://tiziyun.co/providers/jinyun/) | 体验版：¥6 / 月付 / 50G / 月 | ¥0.080（办公版） | 未公开 | 测试中 | [档案](https://tiziyun.co/providers/jinyun/) · [解读](https://tiziyun.co/reviews/jinyun-airport/) |
-| [鲤云](https://tiziyun.co/providers/liyun/) | 小鲤：¥5 / 月付 / 100GB / 月 | ¥0.037（大鲤） | 未公开 | 测试中 | [档案](https://tiziyun.co/providers/liyun/) · [解读](https://tiziyun.co/reviews/liyun-airport/) |
+| [锦云](https://tiziyun.co/providers/jinyun/) | 体验版：¥6 / 月付 / 50G / 月 | ¥0.064（年付特惠） | ChatGPT*、Netflix* | 测试中 | [档案](https://tiziyun.co/providers/jinyun/) · [解读](https://tiziyun.co/reviews/jinyun-airport/) |
+| [鲤云](https://tiziyun.co/providers/liyun/) | 小鲤：¥5 / 月付 / 100GB / 月 | ¥0.029（特惠年付） | ChatGPT* | 测试中 | [档案](https://tiziyun.co/providers/liyun/) · [解读](https://tiziyun.co/reviews/liyun-airport/) |
 | [熊猫Cloud](https://tiziyun.co/providers/xiongmaocloud/) | 月付 300G：¥6 / 月付 / 300G / 月 | ¥0.013（月付 1200G） | 未公开 | 测试中 | [档案](https://tiziyun.co/providers/xiongmaocloud/) · [解读](https://tiziyun.co/reviews/xiongmaocloud-airport/) |
 | [瞬云](https://tiziyun.co/providers/shunyun/) | 行者：¥20 / 月付 / 150G / 月 | ¥0.11（凌霄） | ChatGPT*、Gemini*、Netflix*、Disney+* | 测试中 | [档案](https://tiziyun.co/providers/shunyun/) · [解读](https://tiziyun.co/reviews/shunyun-airport/) |
 | [鲲鹏加速](https://tiziyun.co/providers/kunpeng/) | 逍遥畅游：¥12 / 月付 / 99GB / 月 | ¥0.11（吞吐山海） | ChatGPT*、Netflix*、Disney+*、YouTube* | 测试中 | [档案](https://tiziyun.co/providers/kunpeng/) · [解读](https://tiziyun.co/reviews/kunpeng-airport/) |
-| [云图](https://tiziyun.co/providers/yuntu/) | 岚图：¥20 / 月付 / 150G / 月 | ¥0.13（岚图） | ChatGPT*、Netflix*、Disney+*、YouTube*、TikTok* | 测试中 | [档案](https://tiziyun.co/providers/yuntu/) · [解读](https://tiziyun.co/reviews/yuntu-airport/) |
+| [云图](https://tiziyun.co/providers/yuntu/) | 岚图：¥20 / 月付 / 150G / 月 | ¥0.13（星图） | ChatGPT*、Netflix*、Disney+*、YouTube*、TikTok* | 测试中 | [档案](https://tiziyun.co/providers/yuntu/) · [解读](https://tiziyun.co/reviews/yuntu-airport/) |
+| [二猫云](https://tiziyun.co/providers/ermaoyun/) | 白猫套餐：¥20 / 月付 / 130G / 月 | ¥0.13（二猫年付小包） | ChatGPT*、Netflix*、Disney+*、TikTok* | 测试中 | [档案](https://tiziyun.co/providers/ermaoyun/) · [解读](https://tiziyun.co/reviews/ermaoyun-airport/) |
+| [EdgeNova](https://tiziyun.co/providers/edgenova/) | 限时体验月付小包：¥15 / 月付 / 50G / 月 | ¥0.17（极界·专享套餐） | ChatGPT*、Netflix*、Disney+*、TikTok* | 测试中 | [档案](https://tiziyun.co/providers/edgenova/) · [解读](https://tiziyun.co/reviews/edgenova-airport/) |
 
 - 带 `*` 的为服务商官方宣称，尚待实测核实。
 - “测试中”表示正在进行 30 天测试，评分会在测试完成后公布，方法见 [评测方法](https://tiziyun.co/methodology/)。
